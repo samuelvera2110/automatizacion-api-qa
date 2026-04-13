@@ -1,0 +1,5 @@
+{
+  "usuarioNuevo": { "name": "Samuel", "job": "Developer" },
+  "usuarioActualizado": { "name": "Samuel Vera", "job": "QA Engineer" },
+  "userId": 2
+}

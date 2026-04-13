@@ -1,0 +1,16 @@
+{
+    "id": 456789123,
+    "mascotaNueva": {
+        "id": 456789123,
+        "name": "Firulais",
+        "status": "available",
+        "photoUrls": []
+    },
+    "mascotaActualizada": {
+        "id": 456789123,
+        "name": "Bethoven",
+        "status": "sold",
+        "photoUrls": []
+    },
+    "estadoFiltro": "sold"
+}
