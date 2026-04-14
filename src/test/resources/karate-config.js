@@ -4,6 +4,9 @@ function config() {
     
     karate.configure('connectTimeout', 5000);
     karate.configure('readTimeout', 5000);
+    karate.configure('ssl',
+        {trusAll: true}
+    );
 
     var entornos = {
         qa:{
